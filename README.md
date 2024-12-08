@@ -1,5 +1,10 @@
-## Hello!
-### I'm scarlot, I'm a developer using JavaScript & Typescript for my projects. I like having fun and coding new stuff I don't know.
+# Hi there, I'm Scarlot Ruskipy! 👋
 
----
-What else do I put here?
+I'm a full-stack developer with 5-6 years of coding experience. My expertise includes:
+
+- **Languages**: JavaScript, TypeScript, Lua, C#, C++, HTML, CSS, and others.
+
+## About Me
+
+- 📫 How to reach me: https://discord.gg/9yCkMC8QCP
+- ⚡ Fun fact: I started coding because dragging blocks in [scratch](https://scratch.mit.edu/) got boring.
