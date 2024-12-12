@@ -2,7 +2,7 @@
 
 I'm a full-stack developer with 5-6 years of coding experience. My expertise includes:
 
-- **Languages**: JavaScript, TypeScript, Lua, C#, C++, HTML, CSS, and others.
+- **Languages**: JavaScript, TypeScript, Lua, HTML, CSS, and others.
 
 ## About Me
 
