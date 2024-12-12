@@ -7,4 +7,4 @@ I'm a full-stack developer with 5-6 years of coding experience. My expertise inc
 ## About Me
 
 - 📫 How to reach me: https://discord.gg/9yCkMC8QCP
-- ⚡ Fun fact: I started coding because dragging blocks in [scratch](https://scratch.mit.edu/) got boring.
+- ⚡ Fun fact: I started coding because dragging blocks in [scratch](https://scratch.mit.edu/), got bored after a while and just started coding Roblox games.
