@@ -17,9 +17,7 @@ I'm a passionate **full-stack developer** with **5-6 years** of coding experienc
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scarlot-Ruskipy&hide=html&layout=compact&langs_count=10"/>
-<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Scarlot-Ruskipy&count_private=true&show_icons=true"/><br /><br />
+  
 ---
 
 ## 🌟 **Top 3 Open Source Projects**
@@ -63,3 +61,10 @@ I'm a passionate **full-stack developer** with **5-6 years** of coding experienc
 ---
 
 Thanks for stopping by! 😊
+
+---
+
+## 💻 **GitHub Stats**
+
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scarlot-Ruskipy&hide=html&layout=compact&langs_count=10"/>
+<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Scarlot-Ruskipy&count_private=true&show_icons=true"/>
