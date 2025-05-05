@@ -18,14 +18,8 @@ I'm a passionate **full-stack developer** with **5-6 years** of coding experienc
   ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scarlot-Ruskipy&hide=html&layout=compact&langs_count=10"/></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Scarlot-Ruskipy&count_private=true&show_icons=true"/></td>
-    </tr>
-</table>
-</center> 
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scarlot-Ruskipy&hide=html&layout=compact&langs_count=10"/>
+<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Scarlot-Ruskipy&count_private=true&show_icons=true"/>
 ---
 
 ## 🌟 **Top 3 Open Source Projects**
