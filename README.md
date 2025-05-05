@@ -66,5 +66,5 @@ Thanks for stopping by! 😊
 
 ## 💻 **GitHub Stats**
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scarlot-Ruskipy&hide=html&layout=compact&langs_count=10"/>
-<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Scarlot-Ruskipy&count_private=true&show_icons=true"/>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scarlot-Ruskipy&hide=html&layout=compact&langs_count=10&theme=tokyonight"/>
+<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Scarlot-Ruskipy&count_private=true&show_icons=true&theme=tokyonight"/>
