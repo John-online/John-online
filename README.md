@@ -35,7 +35,7 @@ I'm a passionate **full-stack developer** with **5-6 years** of coding experienc
 
 3. **[OmeDB](https://github.com/Scarlot-Ruskipy/omedb)**  
    _Description_: An open-source Database fully written in TypeScript, a thing for my project.
-   _Tech Stack_:
+   _Tech Stack_:  
    ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 ---
