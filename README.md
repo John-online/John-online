@@ -40,7 +40,7 @@ I'm a passionate **full-stack developer** with **5-6 years** of coding experienc
 
 ---
 
-## � **About Me**
+## 🪪 **About Me**
 
 - �📫 **How to reach me**: [Join my Discord](https://discord.gg/EF7TZWEgjT)
 - ⚡ **Fun fact**: I started coding by dragging blocks in [Scratch](https://scratch.mit.edu/), got bored, and transitioned to coding Roblox games.
