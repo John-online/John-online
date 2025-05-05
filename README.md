@@ -18,6 +18,14 @@ I'm a passionate **full-stack developer** with **5-6 years** of coding experienc
   ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scarlot-Ruskipy&hide=html&layout=compact&langs_count=10"/></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Scarlot-Ruskipy&count_private=true&show_icons=true"/></td>
+    </tr>
+</table>
+</center> 
 ---
 
 ## 🌟 **Top 3 Open Source Projects**
@@ -34,7 +42,7 @@ I'm a passionate **full-stack developer** with **5-6 years** of coding experienc
    ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 3. **[OmeDB](https://github.com/Scarlot-Ruskipy/omedb)**  
-   _Description_: An open-source Database fully written in TypeScript, a thing for my project.  
+   _Description_: An open-source Database fully written in TypeScript, a thing for my project.
    _Tech Stack_:  
    ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
