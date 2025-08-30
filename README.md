@@ -6,7 +6,7 @@
 
 ## 📝 My Commit style!
 
-Since I want to make it clear aas how I push a commit to GitHub, I've made this list so you can understand what something means.
+Since I want to make it clear as how I push a commit to GitHub, I've made this list so you can understand what something means.
 
 | Type              | Description                                 | Example Commit                                              |
 | ----------------- | ------------------------------------------- | ----------------------------------------------------------- |
